@@ -1,0 +1,27 @@
+{
+  "name": "codecept-playwright-facebook",
+  "version": "1.0.0",
+  "description": "testing facebook landing page with CodeceptJS & MS-Playwright",
+  "scripts": {
+    "test": "npx codeceptjs run --steps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomByrer/codecept-playwright-facebook.git"
+  },
+  "keywords": [
+    "CodeceptJS",
+    "Playwright",
+    "testing"
+  ],
+  "author": "tom byrer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomByrer/codecept-playwright-facebook/issues"
+  },
+  "homepage": "https://github.com/tomByrer/codecept-playwright-facebook#readme",
+  "devDependencies": {
+    "codeceptjs": "^2.5.0",
+    "playwright": "^0.11.1"
+  }
+}
