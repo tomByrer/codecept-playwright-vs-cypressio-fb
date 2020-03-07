@@ -1,10 +1,10 @@
-## Testing the test system: CodeceptJS & Playwrite
+## Testing the test system: CodeceptJS & Playwright
 
-[CodeceptJS](https://codecept.io/) & [Playwrite](https://github.com/microsoft/playwright) seems like a good combo for automation testing.  Here we'll log into Facebook & start the process to enter a new event.
+[CodeceptJS](https://codecept.io/) & [Playwright](https://github.com/microsoft/playwright) seems like a good combo for automation testing.  Here we'll log into Facebook & start the process to enter a new event.
 
 ### Usage
 
-First, edit `SECRETS-template.js` to add your log in information, then save as `SECRETS.js`.  Run the following:
+First, copy `SECRETS-template.js` to `SECRETS.js`, then edit the new file with your information. Run the following:
 
 ```bash
 npm i
