@@ -1,27 +1,30 @@
 {
-  "name": "codecept-playwright-fb",
-  "version": "1.0.0",
-  "description": "testing fb landing page with CodeceptJS & MS-Playwright",
+  "name": "codecept-playwright-vs-cypressio-fb",
+  "version": "1.1.0",
+  "description": "testing fb landing page with CodeceptJS + MS-Playwright vs CypressIO",
   "scripts": {
-    "test": "npx codeceptjs run --steps"
+    "test-codecept": "npx codeceptjs run --steps",
+    "test-cypress": "node_modules/.bin/cypress open"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomByrer/codecept-playwright-fb.git"
+    "url": "git+https://github.com/tomByrer/codecept-playwright-vs-cypressio-fb.git"
   },
   "keywords": [
     "CodeceptJS",
     "Playwright",
+    "CypressIO",
     "testing"
   ],
   "author": "tom byrer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tomByrer/codecept-playwright-fb/issues"
+    "url": "https://github.com/tomByrer/codecept-playwright-vs-cypressio-fb/issues"
   },
-  "homepage": "https://github.com/tomByrer/codecept-playwright-fb#readme",
+  "homepage": "https://github.com/tomByrer/codecept-playwright-vs-cypressio-fb#readme",
   "devDependencies": {
     "codeceptjs": "^2.5.0",
-    "playwright": "^0.11.1"
+    "playwright": "^0.11.1",
+    "cypress": "^4.1.0"
   }
 }

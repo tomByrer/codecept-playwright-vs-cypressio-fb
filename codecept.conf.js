@@ -6,7 +6,7 @@ setHeadlessWhen(process.env.HEADLESS);
 
 exports.config = {
   tests: './*_test.js',
-  output: './test-output',
+  output: './codecept-test-output',
   helpers: {
     Playwright: {
       url: 'https://facebook.com',
