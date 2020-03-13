@@ -1,6 +1,6 @@
 ## Testing the test systems: CodeceptJS + Playwright vs Cypress
 
-[CodeceptJS](https://codecept.io/) & [Playwright](https://github.com/microsoft/playwright) seems like a good, though newer, combo for automation testing.  [Cypress](https://github.com/cypress-io/cypress) is mature and has a slick GUI.  I used this repo to test the testers, then wrote about on Dev.io.
+[CodeceptJS](https://codecept.io/) & [Playwright](https://github.com/microsoft/playwright) seems like a good, though newer, combo for automation testing.  [Cypress](https://github.com/cypress-io/cypress) is mature and has a slick GUI.  I used this repo to test the testers, then wrote about on [Dev.to](https://dev.to/tombyrer/testing-testers-codeceptjs-playwright-vs-cypressio-28pc).
 
 ### Usage
 

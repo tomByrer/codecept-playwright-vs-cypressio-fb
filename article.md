@@ -134,4 +134,3 @@ However, if you have a more junior test team, prefer to use a product backed by 
 *Aside*: if you get tired of Codecept, you *could* use Playwright directly, but you'll have to rewrite the tests.   But I feel Codecept makes life more tester-friendly, so it is worth the extra overhead.
 
 I hope you enjoyed this overview!  Please add comments & suggestions below.
-	
