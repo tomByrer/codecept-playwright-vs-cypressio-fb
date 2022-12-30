@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/tomByrer/codecept-playwright-vs-cypressio-fb#readme",
   "devDependencies": {
-    "codeceptjs": "^2.5.0",
+    "codeceptjs": "^3.0.0",
     "playwright": "^0.11.1",
     "cypress": "^4.1.0"
   }
